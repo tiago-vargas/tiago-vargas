@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently a CS student.
+- 🌱 I'm currently learning how to make GTK apps with Relm4.
+- 👯 I'm looking to collaborate on open source projects.
+- 🐧 I wanna know everything about computers!
