@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently a CS student.
 - 🌱 I'm currently learning how to make GTK apps with Relm4.
 - 👯 I'm looking to collaborate on open source projects.
+- 💬 Ask me about Git, I'm fairly good at it!
 - 🐧 I wanna know everything about computers!
 
 ## Languages
