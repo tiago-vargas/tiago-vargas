@@ -30,7 +30,7 @@ The languages I use most nowadays:
 ![Static Badge](https://img.shields.io/badge/Rust-darkred?style=for-the-badge&logo=Rust&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-cornflowerblue?style=for-the-badge&logo=C&logoColor=white)
 
-_Some_ other languages I'm quite familiar with:
+_Some_ other languages I'm quite experienced with:
 
 ![Static Badge](https://img.shields.io/badge/Swift-red?style=for-the-badge&logo=Swift&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=Python&logoColor=white)
